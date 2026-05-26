@@ -1,0 +1,233 @@
+product_id,stock_code,product_name,category,subcategory,brand,supplier,unit_cost,unit_price,uom,is_active
+P0001,10001,NordMart Coffee 1,Beverages,Coffee,NordMart,MegaSupply,142.16,203.58,pcs,1
+P0002,10002,Daily Coffee 2,Beverages,Coffee,Daily,Local Partner,117.29,184.12,pcs,1
+P0003,10003,GreenFarm Coffee 3,Beverages,Coffee,GreenFarm,Volga Distribution,66.92,81.15,pcs,1
+P0004,10004,Select Coffee 4,Beverages,Coffee,Select,RetailTrade LLC,177.93,281.49,pcs,1
+P0005,10005,HappyDay Coffee 5,Beverages,Coffee,HappyDay,Local Partner,78.92,116.7,pcs,1
+P0006,10006,FreshLine Coffee 6,Beverages,Coffee,FreshLine,Fresh Import,91.83,117.4,pcs,1
+P0007,10007,Daily Coffee 7,Beverages,Coffee,Daily,Volga Distribution,125.28,157.91,pcs,1
+P0008,10008,FreshLine Coffee 8,Beverages,Coffee,FreshLine,Volga Distribution,104.72,136.86,pcs,1
+P0009,10009,Prime Tea 1,Beverages,Tea,Prime,Volga Distribution,158.0,244.07,pcs,1
+P0010,10010,NordMart Tea 2,Beverages,Tea,NordMart,RetailTrade LLC,152.71,208.99,pcs,1
+P0011,10011,HomePro Tea 3,Beverages,Tea,HomePro,Local Partner,167.84,242.79,pcs,1
+P0012,10012,HomePro Tea 4,Beverages,Tea,HomePro,City Wholesale,131.76,179.98,pcs,1
+P0013,10013,FreshLine Tea 5,Beverages,Tea,FreshLine,Fresh Import,77.08,99.89,pcs,1
+P0014,10014,GreenFarm Tea 6,Beverages,Tea,GreenFarm,Local Partner,99.98,145.4,pcs,1
+P0015,10015,HomePro Tea 7,Beverages,Tea,HomePro,City Wholesale,179.63,223.64,pcs,1
+P0016,10016,Daily Tea 8,Beverages,Tea,Daily,North Foods,145.81,231.07,pcs,1
+P0017,10017,FreshLine Juice 1,Beverages,Juice,FreshLine,RetailTrade LLC,150.89,207.99,pcs,1
+P0018,10018,HappyDay Juice 2,Beverages,Juice,HappyDay,Fresh Import,93.43,153.99,pcs,1
+P0019,10019,Vita Juice 3,Beverages,Juice,Vita,RetailTrade LLC,160.51,190.27,pcs,1
+P0020,10020,Vita Juice 4,Beverages,Juice,Vita,Local Partner,145.12,223.66,pcs,1
+P0021,10021,Daily Juice 5,Beverages,Juice,Daily,SupplyHub,81.09,101.71,pcs,1
+P0022,10022,Select Juice 6,Beverages,Juice,Select,RetailTrade LLC,176.06,270.8,pcs,1
+P0023,10023,Select Juice 7,Beverages,Juice,Select,Volga Distribution,157.83,223.9,pcs,1
+P0024,10024,FreshLine Juice 8,Beverages,Juice,FreshLine,SupplyHub,92.35,115.98,pcs,1
+P0025,10025,GreenFarm Water 1,Beverages,Water,GreenFarm,Local Partner,85.38,101.53,pcs,1
+P0026,10026,Select Water 2,Beverages,Water,Select,RetailTrade LLC,73.52,95.08,pcs,1
+P0027,10027,Daily Water 3,Beverages,Water,Daily,North Foods,142.47,222.76,pcs,1
+P0028,10028,FreshLine Water 4,Beverages,Water,FreshLine,North Foods,132.37,215.1,pcs,1
+P0029,10029,Select Water 5,Beverages,Water,Select,Volga Distribution,113.87,166.83,pcs,1
+P0030,10030,Vita Water 6,Beverages,Water,Vita,Fresh Import,145.74,219.23,pcs,1
+P0031,10031,HappyDay Water 7,Beverages,Water,HappyDay,City Wholesale,179.32,266.37,pcs,1
+P0032,10032,Vita Water 8,Beverages,Water,Vita,RetailTrade LLC,103.21,133.81,pcs,1
+P0033,10033,Prime Bread 1,Bakery,Bread,Prime,Volga Distribution,27.42,39.49,pcs,1
+P0034,10034,NordMart Bread 2,Bakery,Bread,NordMart,Volga Distribution,33.16,48.96,pcs,1
+P0035,10035,Daily Bread 3,Bakery,Bread,Daily,RetailTrade LLC,129.12,204.53,pcs,1
+P0036,10036,Vita Bread 4,Bakery,Bread,Vita,Volga Distribution,52.37,78.26,pcs,1
+P0037,10037,Vita Bread 5,Bakery,Bread,Vita,City Wholesale,40.22,65.14,pcs,1
+P0038,10038,HomePro Bread 6,Bakery,Bread,HomePro,Volga Distribution,115.23,179.7,pcs,1
+P0039,10039,Daily Bread 7,Bakery,Bread,Daily,MegaSupply,36.15,49.98,pcs,1
+P0040,10040,HappyDay Cookies 1,Bakery,Cookies,HappyDay,RetailTrade LLC,78.71,119.85,pcs,1
+P0041,10041,NordMart Cookies 2,Bakery,Cookies,NordMart,RetailTrade LLC,71.3,95.5,pcs,1
+P0042,10042,HomePro Cookies 3,Bakery,Cookies,HomePro,North Foods,47.03,67.35,pcs,1
+P0043,10043,HappyDay Cookies 4,Bakery,Cookies,HappyDay,RetailTrade LLC,46.1,64.42,pcs,1
+P0044,10044,Classic Cookies 5,Bakery,Cookies,Classic,RetailTrade LLC,117.92,186.59,pcs,1
+P0045,10045,NordMart Cookies 6,Bakery,Cookies,NordMart,SupplyHub,100.0,143.41,pcs,1
+P0046,10046,Daily Cookies 7,Bakery,Cookies,Daily,North Foods,131.53,207.67,pcs,1
+P0047,10047,HappyDay Pastry 1,Bakery,Pastry,HappyDay,MegaSupply,80.85,103.53,pcs,1
+P0048,10048,NordMart Pastry 2,Bakery,Pastry,NordMart,MegaSupply,43.93,51.88,pcs,1
+P0049,10049,Select Pastry 3,Bakery,Pastry,Select,Fresh Import,131.55,203.77,pcs,1
+P0050,10050,HappyDay Pastry 4,Bakery,Pastry,HappyDay,City Wholesale,105.11,160.12,pcs,1
+P0051,10051,FreshLine Pastry 5,Bakery,Pastry,FreshLine,SupplyHub,46.84,60.06,pcs,1
+P0052,10052,GreenFarm Pastry 6,Bakery,Pastry,GreenFarm,Local Partner,109.61,132.48,pcs,1
+P0053,10053,NordMart Pastry 7,Bakery,Pastry,NordMart,North Foods,30.77,43.2,pcs,1
+P0054,10054,NordMart Cakes 1,Bakery,Cakes,NordMart,North Foods,135.49,164.98,pcs,1
+P0055,10055,Daily Cakes 2,Bakery,Cakes,Daily,Volga Distribution,93.43,139.9,pcs,1
+P0056,10056,HappyDay Cakes 3,Bakery,Cakes,HappyDay,Volga Distribution,38.79,62.0,pcs,1
+P0057,10057,GreenFarm Cakes 4,Bakery,Cakes,GreenFarm,MegaSupply,93.37,137.36,pcs,1
+P0058,10058,GreenFarm Cakes 5,Bakery,Cakes,GreenFarm,Fresh Import,90.0,119.58,pcs,1
+P0059,10059,HomePro Cakes 6,Bakery,Cakes,HomePro,Fresh Import,102.02,135.45,pcs,1
+P0060,10060,HappyDay Cakes 7,Bakery,Cakes,HappyDay,City Wholesale,40.05,59.41,pcs,1
+P0061,10061,Prime Milk 1,Dairy,Milk,Prime,SupplyHub,206.87,335.09,pcs,1
+P0062,10062,Classic Milk 2,Dairy,Milk,Classic,RetailTrade LLC,149.91,216.56,pcs,1
+P0063,10063,Daily Milk 3,Dairy,Milk,Daily,North Foods,134.46,190.63,pcs,1
+P0064,10064,Prime Milk 4,Dairy,Milk,Prime,Local Partner,197.96,315.4,pcs,1
+P0065,10065,Select Milk 5,Dairy,Milk,Select,Fresh Import,64.18,100.88,pcs,1
+P0066,10066,GreenFarm Milk 6,Dairy,Milk,GreenFarm,SupplyHub,217.01,338.39,pcs,1
+P0067,10067,Vita Milk 7,Dairy,Milk,Vita,North Foods,90.39,134.84,pcs,1
+P0068,10068,Select Cheese 1,Dairy,Cheese,Select,North Foods,56.35,69.33,pcs,1
+P0069,10069,Select Cheese 2,Dairy,Cheese,Select,Local Partner,87.12,111.43,pcs,1
+P0070,10070,HomePro Cheese 3,Dairy,Cheese,HomePro,City Wholesale,162.19,256.4,pcs,1
+P0071,10071,Select Cheese 4,Dairy,Cheese,Select,RetailTrade LLC,202.49,319.46,pcs,1
+P0072,10072,HappyDay Cheese 5,Dairy,Cheese,HappyDay,Local Partner,188.43,226.25,pcs,1
+P0073,10073,FreshLine Cheese 6,Dairy,Cheese,FreshLine,City Wholesale,152.87,199.21,pcs,1
+P0074,10074,Vita Cheese 7,Dairy,Cheese,Vita,RetailTrade LLC,165.55,238.99,pcs,1
+P0075,10075,Daily Yogurt 1,Dairy,Yogurt,Daily,North Foods,209.83,315.75,pcs,1
+P0076,10076,Vita Yogurt 2,Dairy,Yogurt,Vita,North Foods,41.67,56.4,pcs,1
+P0077,10077,HappyDay Yogurt 3,Dairy,Yogurt,HappyDay,SupplyHub,58.58,77.61,pcs,1
+P0078,10078,Prime Yogurt 4,Dairy,Yogurt,Prime,RetailTrade LLC,73.86,95.82,pcs,1
+P0079,10079,Prime Yogurt 5,Dairy,Yogurt,Prime,MegaSupply,179.32,286.11,pcs,1
+P0080,10080,GreenFarm Yogurt 6,Dairy,Yogurt,GreenFarm,Volga Distribution,173.65,280.46,pcs,1
+P0081,10081,FreshLine Yogurt 7,Dairy,Yogurt,FreshLine,MegaSupply,215.6,336.57,pcs,1
+P0082,10082,NordMart Butter 1,Dairy,Butter,NordMart,MegaSupply,68.18,110.08,pcs,1
+P0083,10083,HomePro Butter 2,Dairy,Butter,HomePro,RetailTrade LLC,84.36,130.76,pcs,1
+P0084,10084,HappyDay Butter 3,Dairy,Butter,HappyDay,Volga Distribution,196.35,310.93,pcs,1
+P0085,10085,HomePro Butter 4,Dairy,Butter,HomePro,Fresh Import,186.07,259.82,pcs,1
+P0086,10086,HomePro Butter 5,Dairy,Butter,HomePro,MegaSupply,76.24,113.61,pcs,1
+P0087,10087,Prime Butter 6,Dairy,Butter,Prime,Fresh Import,86.54,104.94,pcs,1
+P0088,10088,Prime Butter 7,Dairy,Butter,Prime,Local Partner,153.67,210.2,pcs,1
+P0089,10089,NordMart Chips 1,Snacks,Chips,NordMart,North Foods,36.15,59.14,pcs,1
+P0090,10090,GreenFarm Chips 2,Snacks,Chips,GreenFarm,RetailTrade LLC,154.75,201.91,pcs,1
+P0091,10091,GreenFarm Chips 3,Snacks,Chips,GreenFarm,Local Partner,80.84,123.07,pcs,1
+P0092,10092,HappyDay Chips 4,Snacks,Chips,HappyDay,MegaSupply,104.87,148.95,pcs,1
+P0093,10093,GreenFarm Chips 5,Snacks,Chips,GreenFarm,MegaSupply,46.61,55.97,pcs,1
+P0094,10094,NordMart Chips 6,Snacks,Chips,NordMart,Volga Distribution,92.79,144.67,pcs,1
+P0095,10095,Prime Chips 7,Snacks,Chips,Prime,Local Partner,80.38,130.7,pcs,1
+P0096,10096,GreenFarm Chips 8,Snacks,Chips,GreenFarm,Fresh Import,63.95,100.95,pcs,1
+P0097,10097,Vita Nuts 1,Snacks,Nuts,Vita,MegaSupply,63.3,86.84,pcs,1
+P0098,10098,Select Nuts 2,Snacks,Nuts,Select,MegaSupply,97.62,123.99,pcs,1
+P0099,10099,FreshLine Nuts 3,Snacks,Nuts,FreshLine,SupplyHub,106.17,140.3,pcs,1
+P0100,10100,Select Nuts 4,Snacks,Nuts,Select,Local Partner,60.17,83.16,pcs,1
+P0101,10101,Classic Nuts 5,Snacks,Nuts,Classic,City Wholesale,81.85,122.57,pcs,1
+P0102,10102,FreshLine Nuts 6,Snacks,Nuts,FreshLine,Local Partner,112.24,147.41,pcs,1
+P0103,10103,Daily Nuts 7,Snacks,Nuts,Daily,Fresh Import,134.58,206.32,pcs,1
+P0104,10104,HomePro Nuts 8,Snacks,Nuts,HomePro,SupplyHub,132.92,166.05,pcs,1
+P0105,10105,HomePro Chocolate 1,Snacks,Chocolate,HomePro,RetailTrade LLC,157.75,231.47,pcs,1
+P0106,10106,Classic Chocolate 2,Snacks,Chocolate,Classic,Volga Distribution,78.02,115.16,pcs,1
+P0107,10107,HappyDay Chocolate 3,Snacks,Chocolate,HappyDay,SupplyHub,89.21,115.5,pcs,1
+P0108,10108,Daily Chocolate 4,Snacks,Chocolate,Daily,City Wholesale,128.98,165.46,pcs,1
+P0109,10109,NordMart Chocolate 5,Snacks,Chocolate,NordMart,RetailTrade LLC,98.04,157.96,pcs,1
+P0110,10110,Classic Chocolate 6,Snacks,Chocolate,Classic,Local Partner,38.67,54.08,pcs,1
+P0111,10111,Classic Chocolate 7,Snacks,Chocolate,Classic,MegaSupply,105.77,160.57,pcs,1
+P0112,10112,Vita Chocolate 8,Snacks,Chocolate,Vita,City Wholesale,82.43,103.43,pcs,1
+P0113,10113,Classic Candy 1,Snacks,Candy,Classic,Fresh Import,56.29,72.96,pcs,1
+P0114,10114,Vita Candy 2,Snacks,Candy,Vita,City Wholesale,87.84,113.53,pcs,1
+P0115,10115,Daily Candy 3,Snacks,Candy,Daily,Local Partner,119.9,154.7,pcs,1
+P0116,10116,Prime Candy 4,Snacks,Candy,Prime,North Foods,145.02,176.62,pcs,1
+P0117,10117,HomePro Candy 5,Snacks,Candy,HomePro,Volga Distribution,73.62,92.16,pcs,1
+P0118,10118,Daily Candy 6,Snacks,Candy,Daily,City Wholesale,78.08,104.28,pcs,1
+P0119,10119,HappyDay Candy 7,Snacks,Candy,HappyDay,MegaSupply,28.72,45.13,pcs,1
+P0120,10120,GreenFarm Candy 8,Snacks,Candy,GreenFarm,MegaSupply,152.45,181.29,pcs,1
+P0121,10121,Classic Detergent 1,Household,Detergent,Classic,MegaSupply,62.0,83.41,pcs,1
+P0122,10122,HappyDay Detergent 2,Household,Detergent,HappyDay,Volga Distribution,242.99,370.63,pcs,1
+P0123,10123,Classic Detergent 3,Household,Detergent,Classic,SupplyHub,134.6,186.4,pcs,1
+P0124,10124,HappyDay Detergent 4,Household,Detergent,HappyDay,MegaSupply,174.28,261.28,pcs,1
+P0125,10125,FreshLine Detergent 5,Household,Detergent,FreshLine,SupplyHub,345.77,557.45,pcs,1
+P0126,10126,HappyDay Detergent 6,Household,Detergent,HappyDay,RetailTrade LLC,261.24,389.67,pcs,1
+P0127,10127,HappyDay Detergent 7,Household,Detergent,HappyDay,SupplyHub,106.14,148.28,pcs,1
+P0128,10128,Select Cleaner 1,Household,Cleaner,Select,Local Partner,188.9,241.69,pcs,1
+P0129,10129,Prime Cleaner 2,Household,Cleaner,Prime,MegaSupply,318.82,433.02,pcs,1
+P0130,10130,Select Cleaner 3,Household,Cleaner,Select,SupplyHub,343.87,481.78,pcs,1
+P0131,10131,Prime Cleaner 4,Household,Cleaner,Prime,SupplyHub,136.24,165.16,pcs,1
+P0132,10132,NordMart Cleaner 5,Household,Cleaner,NordMart,SupplyHub,382.87,487.66,pcs,1
+P0133,10133,GreenFarm Cleaner 6,Household,Cleaner,GreenFarm,RetailTrade LLC,111.81,138.57,pcs,1
+P0134,10134,GreenFarm Cleaner 7,Household,Cleaner,GreenFarm,Fresh Import,382.24,534.59,pcs,1
+P0135,10135,Prime Paper goods 1,Household,Paper goods,Prime,RetailTrade LLC,117.05,171.53,pcs,1
+P0136,10136,FreshLine Paper goods 2,Household,Paper goods,FreshLine,SupplyHub,388.01,477.57,pcs,1
+P0137,10137,Select Paper goods 3,Household,Paper goods,Select,MegaSupply,255.77,410.96,pcs,1
+P0138,10138,HappyDay Paper goods 4,Household,Paper goods,HappyDay,Volga Distribution,380.1,483.95,pcs,1
+P0139,10139,Daily Paper goods 5,Household,Paper goods,Daily,RetailTrade LLC,297.05,392.62,pcs,1
+P0140,10140,GreenFarm Paper goods 6,Household,Paper goods,GreenFarm,MegaSupply,326.1,438.01,pcs,1
+P0141,10141,Prime Paper goods 7,Household,Paper goods,Prime,SupplyHub,83.45,123.87,pcs,1
+P0142,10142,HappyDay Kitchenware 1,Household,Kitchenware,HappyDay,Local Partner,339.59,417.56,pcs,1
+P0143,10143,Classic Kitchenware 2,Household,Kitchenware,Classic,Fresh Import,300.48,416.07,pcs,1
+P0144,10144,GreenFarm Kitchenware 3,Household,Kitchenware,GreenFarm,City Wholesale,334.79,479.73,pcs,1
+P0145,10145,Classic Kitchenware 4,Household,Kitchenware,Classic,Fresh Import,208.1,317.06,pcs,1
+P0146,10146,Prime Kitchenware 5,Household,Kitchenware,Prime,RetailTrade LLC,349.58,549.0,pcs,1
+P0147,10147,Select Kitchenware 6,Household,Kitchenware,Select,City Wholesale,359.75,465.74,pcs,1
+P0148,10148,GreenFarm Kitchenware 7,Household,Kitchenware,GreenFarm,SupplyHub,267.51,363.31,pcs,1
+P0149,10149,Classic Shampoo 1,Personal Care,Shampoo,Classic,Volga Distribution,393.36,497.78,pcs,1
+P0150,10150,Prime Shampoo 2,Personal Care,Shampoo,Prime,Fresh Import,373.18,500.05,pcs,1
+P0151,10151,Vita Shampoo 3,Personal Care,Shampoo,Vita,RetailTrade LLC,73.86,120.07,pcs,1
+P0152,10152,HomePro Shampoo 4,Personal Care,Shampoo,HomePro,Volga Distribution,343.63,484.39,pcs,1
+P0153,10153,Classic Shampoo 5,Personal Care,Shampoo,Classic,SupplyHub,315.44,444.99,pcs,1
+P0154,10154,Daily Shampoo 6,Personal Care,Shampoo,Daily,Volga Distribution,181.81,249.09,pcs,1
+P0155,10155,Select Shampoo 7,Personal Care,Shampoo,Select,Local Partner,322.3,436.21,pcs,1
+P0156,10156,HappyDay Soap 1,Personal Care,Soap,HappyDay,Local Partner,448.72,645.57,pcs,1
+P0157,10157,Classic Soap 2,Personal Care,Soap,Classic,RetailTrade LLC,172.95,224.52,pcs,1
+P0158,10158,HomePro Soap 3,Personal Care,Soap,HomePro,North Foods,189.91,290.4,pcs,1
+P0159,10159,HomePro Soap 4,Personal Care,Soap,HomePro,Fresh Import,152.23,214.27,pcs,1
+P0160,10160,Daily Soap 5,Personal Care,Soap,Daily,Local Partner,386.4,509.75,pcs,1
+P0161,10161,FreshLine Soap 6,Personal Care,Soap,FreshLine,North Foods,184.86,279.65,pcs,1
+P0162,10162,Select Soap 7,Personal Care,Soap,Select,Fresh Import,87.3,105.25,pcs,1
+P0163,10163,FreshLine Toothpaste 1,Personal Care,Toothpaste,FreshLine,RetailTrade LLC,312.39,479.15,pcs,1
+P0164,10164,NordMart Toothpaste 2,Personal Care,Toothpaste,NordMart,City Wholesale,288.14,403.57,pcs,1
+P0165,10165,Prime Toothpaste 3,Personal Care,Toothpaste,Prime,City Wholesale,140.06,168.65,pcs,1
+P0166,10166,Daily Toothpaste 4,Personal Care,Toothpaste,Daily,RetailTrade LLC,382.4,523.25,pcs,1
+P0167,10167,GreenFarm Toothpaste 5,Personal Care,Toothpaste,GreenFarm,North Foods,309.19,372.63,pcs,1
+P0168,10168,GreenFarm Toothpaste 6,Personal Care,Toothpaste,GreenFarm,Volga Distribution,430.67,525.43,pcs,1
+P0169,10169,Daily Toothpaste 7,Personal Care,Toothpaste,Daily,Volga Distribution,282.07,388.02,pcs,1
+P0170,10170,Vita Skincare 1,Personal Care,Skincare,Vita,Fresh Import,214.54,344.77,pcs,1
+P0171,10171,GreenFarm Skincare 2,Personal Care,Skincare,GreenFarm,SupplyHub,446.21,590.57,pcs,1
+P0172,10172,GreenFarm Skincare 3,Personal Care,Skincare,GreenFarm,Volga Distribution,434.84,533.39,pcs,1
+P0173,10173,HomePro Skincare 4,Personal Care,Skincare,HomePro,Volga Distribution,170.57,207.78,pcs,1
+P0174,10174,FreshLine Skincare 5,Personal Care,Skincare,FreshLine,MegaSupply,279.76,350.7,pcs,1
+P0175,10175,Classic Skincare 6,Personal Care,Skincare,Classic,SupplyHub,331.96,465.03,pcs,1
+P0176,10176,HomePro Skincare 7,Personal Care,Skincare,HomePro,City Wholesale,179.48,235.64,pcs,1
+P0177,10177,Daily Fresh fruits 1,Fruits & Vegetables,Fresh fruits,Daily,Volga Distribution,95.61,154.34,pcs,1
+P0178,10178,HappyDay Fresh fruits 2,Fruits & Vegetables,Fresh fruits,HappyDay,North Foods,32.63,41.95,pcs,1
+P0179,10179,Select Fresh fruits 3,Fruits & Vegetables,Fresh fruits,Select,North Foods,110.93,134.62,pcs,1
+P0180,10180,Select Fresh fruits 4,Fruits & Vegetables,Fresh fruits,Select,Fresh Import,85.45,133.93,pcs,1
+P0181,10181,Classic Fresh fruits 5,Fruits & Vegetables,Fresh fruits,Classic,MegaSupply,33.68,50.64,pcs,1
+P0182,10182,Select Fresh fruits 6,Fruits & Vegetables,Fresh fruits,Select,RetailTrade LLC,75.05,105.98,pcs,1
+P0183,10183,GreenFarm Fresh fruits 7,Fruits & Vegetables,Fresh fruits,GreenFarm,Local Partner,24.38,33.72,pcs,1
+P0184,10184,GreenFarm Fresh vegetables 1,Fruits & Vegetables,Fresh vegetables,GreenFarm,SupplyHub,47.54,58.14,pcs,1
+P0185,10185,Select Fresh vegetables 2,Fruits & Vegetables,Fresh vegetables,Select,North Foods,83.39,128.31,pcs,1
+P0186,10186,Classic Fresh vegetables 3,Fruits & Vegetables,Fresh vegetables,Classic,Fresh Import,77.09,106.99,pcs,1
+P0187,10187,FreshLine Fresh vegetables 4,Fruits & Vegetables,Fresh vegetables,FreshLine,City Wholesale,129.66,179.56,pcs,1
+P0188,10188,Daily Fresh vegetables 5,Fruits & Vegetables,Fresh vegetables,Daily,Local Partner,71.7,98.37,pcs,1
+P0189,10189,Daily Fresh vegetables 6,Fruits & Vegetables,Fresh vegetables,Daily,City Wholesale,114.35,152.66,pcs,1
+P0190,10190,Select Fresh vegetables 7,Fruits & Vegetables,Fresh vegetables,Select,SupplyHub,92.88,127.08,pcs,1
+P0191,10191,Classic Salads 1,Fruits & Vegetables,Salads,Classic,RetailTrade LLC,29.69,38.56,pcs,1
+P0192,10192,HappyDay Salads 2,Fruits & Vegetables,Salads,HappyDay,SupplyHub,115.14,180.51,pcs,1
+P0193,10193,Vita Salads 3,Fruits & Vegetables,Salads,Vita,Local Partner,70.82,85.37,pcs,1
+P0194,10194,GreenFarm Salads 4,Fruits & Vegetables,Salads,GreenFarm,SupplyHub,103.21,152.13,pcs,1
+P0195,10195,HomePro Salads 5,Fruits & Vegetables,Salads,HomePro,Fresh Import,49.38,61.31,pcs,1
+P0196,10196,Classic Salads 6,Fruits & Vegetables,Salads,Classic,SupplyHub,116.89,164.56,pcs,1
+P0197,10197,GreenFarm Salads 7,Fruits & Vegetables,Salads,GreenFarm,Fresh Import,107.92,163.35,pcs,1
+P0198,10198,Vita Herbs 1,Fruits & Vegetables,Herbs,Vita,Volga Distribution,21.5,29.49,pcs,1
+P0199,10199,Daily Herbs 2,Fruits & Vegetables,Herbs,Daily,North Foods,70.76,87.4,pcs,1
+P0200,10200,Classic Herbs 3,Fruits & Vegetables,Herbs,Classic,Fresh Import,122.59,161.47,pcs,1
+P0201,10201,HappyDay Herbs 4,Fruits & Vegetables,Herbs,HappyDay,Volga Distribution,111.82,183.46,pcs,1
+P0202,10202,Classic Herbs 5,Fruits & Vegetables,Herbs,Classic,North Foods,80.64,109.69,pcs,1
+P0203,10203,Daily Herbs 6,Fruits & Vegetables,Herbs,Daily,MegaSupply,50.39,78.17,pcs,1
+P0204,10204,Prime Herbs 7,Fruits & Vegetables,Herbs,Prime,SupplyHub,122.77,174.17,pcs,1
+P0205,10205,Select Frozen meals 1,Frozen,Frozen meals,Select,City Wholesale,276.03,434.36,pcs,1
+P0206,10206,FreshLine Frozen meals 2,Frozen,Frozen meals,FreshLine,Local Partner,200.57,282.33,pcs,1
+P0207,10207,Vita Frozen meals 3,Frozen,Frozen meals,Vita,Local Partner,285.98,388.16,pcs,1
+P0208,10208,HomePro Frozen meals 4,Frozen,Frozen meals,HomePro,MegaSupply,344.81,445.58,pcs,1
+P0209,10209,HomePro Frozen meals 5,Frozen,Frozen meals,HomePro,Local Partner,311.12,427.19,pcs,1
+P0210,10210,Classic Frozen meals 6,Frozen,Frozen meals,Classic,MegaSupply,270.41,422.21,pcs,1
+P0211,10211,FreshLine Frozen meals 7,Frozen,Frozen meals,FreshLine,Local Partner,213.74,255.93,pcs,1
+P0212,10212,Daily Ice cream 1,Frozen,Ice cream,Daily,City Wholesale,316.03,438.32,pcs,1
+P0213,10213,NordMart Ice cream 2,Frozen,Ice cream,NordMart,North Foods,275.06,377.57,pcs,1
+P0214,10214,Daily Ice cream 3,Frozen,Ice cream,Daily,Local Partner,206.76,338.16,pcs,1
+P0215,10215,GreenFarm Ice cream 4,Frozen,Ice cream,GreenFarm,Local Partner,267.03,396.65,pcs,1
+P0216,10216,Vita Ice cream 5,Frozen,Ice cream,Vita,City Wholesale,182.6,242.64,pcs,1
+P0217,10217,Vita Ice cream 6,Frozen,Ice cream,Vita,Fresh Import,89.69,108.72,pcs,1
+P0218,10218,HomePro Ice cream 7,Frozen,Ice cream,HomePro,RetailTrade LLC,281.63,389.77,pcs,1
+P0219,10219,Daily Frozen vegetables 1,Frozen,Frozen vegetables,Daily,SupplyHub,199.79,300.92,pcs,1
+P0220,10220,NordMart Frozen vegetables 2,Frozen,Frozen vegetables,NordMart,Local Partner,167.58,202.16,pcs,1
+P0221,10221,Prime Frozen vegetables 3,Frozen,Frozen vegetables,Prime,MegaSupply,196.29,254.15,pcs,1
+P0222,10222,GreenFarm Frozen vegetables 4,Frozen,Frozen vegetables,GreenFarm,North Foods,264.09,333.98,pcs,1
+P0223,10223,Daily Frozen vegetables 5,Frozen,Frozen vegetables,Daily,Volga Distribution,244.56,332.55,pcs,1
+P0224,10224,Classic Frozen vegetables 6,Frozen,Frozen vegetables,Classic,City Wholesale,326.46,407.18,pcs,1
+P0225,10225,Select Frozen vegetables 7,Frozen,Frozen vegetables,Select,City Wholesale,204.08,304.78,pcs,1
+P0226,10226,Select Frozen fish 1,Frozen,Frozen fish,Select,City Wholesale,262.95,329.8,pcs,1
+P0227,10227,Prime Frozen fish 2,Frozen,Frozen fish,Prime,MegaSupply,346.67,457.81,pcs,1
+P0228,10228,Select Frozen fish 3,Frozen,Frozen fish,Select,MegaSupply,203.35,268.83,pcs,1
+P0229,10229,Classic Frozen fish 4,Frozen,Frozen fish,Classic,Local Partner,108.8,147.89,pcs,1
+P0230,10230,GreenFarm Frozen fish 5,Frozen,Frozen fish,GreenFarm,SupplyHub,159.89,241.22,pcs,1
+P0231,10231,HappyDay Frozen fish 6,Frozen,Frozen fish,HappyDay,SupplyHub,154.11,222.84,pcs,1
+P0232,10232,GreenFarm Frozen fish 7,Frozen,Frozen fish,GreenFarm,Fresh Import,281.2,441.89,pcs,1

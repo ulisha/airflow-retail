@@ -1,0 +1,36 @@
+# Local environment and secrets
+.env
+**/.env
+*.pem
+*.key
+*authorized_key*.json
+*service_account*.json
+
+# Airflow runtime artifacts
+logs/
+config/airflow.cfg
+plugins/
+
+# Local app/runtime state
+.local/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS and editor files
+.DS_Store
+*.swp
+*.swo
+
+# Docker / backup scratch files
+docker-compose.override.bak
+*.bak
+*.broken
+
+# Diploma/private working materials
+диплом/
+!диплом/.gitkeep
+
+# Office temporary files
+~$*.docx
+*.tmp.docx

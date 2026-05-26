@@ -1,0 +1,13 @@
+store_id,store_name,city,region,format,opening_date,store_area_sqm,employees_count
+S001,Moscow Store,Moscow,Central,Convenience,2018-08-17,450,53
+S002,Tver Store,Tver,Central,Hypermarket,2019-04-03,600,31
+S003,Yaroslavl Store,Yaroslavl,Central,Convenience,2022-02-25,1800,29
+S004,Saint Petersburg Store,Saint Petersburg,Northwest,Convenience,2020-05-14,450,21
+S005,Pskov Store,Pskov,Northwest,Hypermarket,2019-03-24,600,82
+S006,Kaliningrad Store,Kaliningrad,Northwest,Convenience,2018-02-24,1800,43
+S007,Kazan Store,Kazan,Volga,Convenience,2021-08-23,1800,71
+S008,Nizhny Novgorod Store,Nizhny Novgorod,Volga,Hypermarket,2020-07-08,1800,53
+S009,Samara Store,Samara,Volga,Hypermarket,2022-04-04,600,72
+S010,Rostov-on-Don Store,Rostov-on-Don,South,Supermarket,2019-07-24,600,45
+S011,Krasnodar Store,Krasnodar,South,Supermarket,2018-07-29,450,66
+S012,Sochi Store,Sochi,South,Hypermarket,2020-01-06,850,51
