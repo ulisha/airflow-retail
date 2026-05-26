@@ -1,13 +1,3 @@
-Airflow project files for retail ETL.
-Connection in Airflow:
-Conn Id: retail_postgres
-Conn Type: Postgres
-Host: postgres
-Schema: retail
-Login: airflow
-Password: airflow
-Port: 5432
-
 ## Локальный контур платформы
 
 - Airflow: http://localhost:8080
